@@ -1,2 +1,2 @@
 # testc
-:cofee:
+:coffee:
